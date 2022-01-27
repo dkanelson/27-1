@@ -1,0 +1,16 @@
+.body{
+    background-image: url(fondo.jpg);
+    background-size:cover;
+    background-repeat:repeat;
+}
+
+
+.header{
+    background:transparent;
+    display:flex;
+    height: 50vh;
+    margin: 0;
+    align-items: center;
+
+
+}
